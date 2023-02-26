@@ -3,11 +3,11 @@
 [![Build](https://github.com/raharrison/kotlin-ktor-exposed-starter/workflows/Build/badge.svg)](https://github.com/raharrison/kotlin-ktor-exposed-starter/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/raharrison/kotlin-ktor-exposed-starter/branch/master/graph/badge.svg?token=v2k9oObm0C)](https://codecov.io/gh/raharrison/kotlin-ktor-exposed-starter)
 
-## Starter project to create a simple RESTful web service in Kotlin
+## SESAP Backend built on a simple RESTful web service in Kotlin
 
 **Updated for Kotlin 1.8.0 and Ktor 2.2.2**
 
-Companion article: <https://ryanharrison.co.uk/2018/04/14/kotlin-ktor-exposed-starter.html>
+Thanks Ryan Harrison for this inspiration article: <https://ryanharrison.co.uk/2018/04/14/kotlin-ktor-exposed-starter.html>
 
 ## Getting Started
 
